@@ -1,0 +1,53 @@
+.centro {
+    text-align: center;
+    font-size: 40px;
+    margin: 100px;
+    border:solid 10px;
+    border-color: rgb(1, 2, 2);
+    border-radius: 50px;
+    text-shadow: 0.1em 0.1em #333;
+    background-image:url(https://www.designerd.com.br/wp-content/uploads/2017/10/papel-parede-criativo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(242, 198, 141);
+   
+}
+.lista{
+    color: rgb(242, 198, 141);
+    text-align: center;
+    font-size: 30px; 
+    text-shadow: 0.1em 0.1em #333;
+}
+
+.para {
+    text-align: center;
+    font-size: 30px;
+    border:solid 10px black;
+    color: rgb(242, 198, 141);
+    background-image:url(https://images3.alphacoders.com/680/680154.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+}
+
+.contatos{
+font-size: 50px;
+border: solid 10px;
+border-radius: 50px;
+background-image:url(https://th.bing.com/th/id/OIP.scVP1jk8Xhg69YYANTraEAHaEe?pid=ImgDet&rs=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.magem{
+    display: flex;
+    justify-content: center;}
+
+    body{background-image:url(https://th.bing.com/th/id/R.445f9752b0d28b4165239c614161c7d2?rik=dzJKBKrRJ%2fvDsw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2ff%2ff%2f7%2f527020.jpg&ehk=K6%2fY82da2ucdtFqBvXbeJilcVs5ZC4FUaZEYTSfIYr0%3d&risl=&pid=ImgRaw&r=0);
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+        
+    }
+    p {text-shadow: 0.1em 0.1em #333}
+
+        
